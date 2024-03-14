@@ -8,8 +8,8 @@
   - Recipes Project(https://github.com/XVI-Adam/odin-recipes)
 
 <h2> 🤳 Connect with me:</h2>
-[<img href="https://www.linkedin.com/in/adam-martinez-321700238/" align="left" alt="AdamMartinez | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>] [linkedin]
-<img href="mailto:amartinez24@manhattan.edu" align="left" alt="AdamMartinez | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-[linkedin]: https://www.linkedin.com/in/adam-martinez-321700238
+<img src="https://www.linkedin.com/in/adam-martinez-321700238/" align="left" alt="AdamMartinez | LinkedIn" width="50px" href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
+<img src="mailto:amartinez24@manhattan.edu" align="left" alt="AdamMartinez | Gmail" width="50px" href="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+
 
 
