@@ -9,7 +9,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/adam-martinez-321700238/"><img align="left" alt="AdamMartinez | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a>
-<a href="mailto:amartinez24@manhattan.edu"
+<a href="mailto:amartinez24@manhattan.edu">
 <img align="left" alt="AdamMartinez | Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
