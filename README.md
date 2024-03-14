@@ -1,11 +1,22 @@
-<h2>Thank's for visiting my GitHub portfolio! Hi, I'm Adam! I am a junior in Manhattan College studying Computer Information Systems with interests in Software Development. This repository serves as a showcase of my work that demonstrates my commitment to these fields. I appreciate you for taking the time to explore my portfolio and I hope it inspires and informs you. </h2>
+<h2 position: absolute;
+  top: 50%;
+  left: -28px;
+  display: flex;
+  width: 28px;
+  height: 28px;
+  margin: auto;
+  border-radius: 6px;
+  opacity: 0;
+  justify-content: center;
+  align-items: center;
+  transform: translateY(-50%); >Thank's for visiting my GitHub portfolio! Hi, I'm Adam! I am a junior in Manhattan College studying Computer Information Systems with interests in Software Development. This repository serves as a showcase of my work that demonstrates my commitment to these fields. I appreciate you for taking the time to explore my portfolio and I hope it inspires and informs you. </h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Password Manager in Python (https://github.com/XVI-Adam/PW-Manager)</b>
 - <b>Full Stack Web App (HTML, CSS, PHP) (https://github.com/wdejesus01/ZooWeeMama)</b>
 - <b>The Odin Project</b>
-  - Recipes Project((https://github.com/XVI-Adam/odin-recipes))
+  - Recipes Project(https://github.com/XVI-Adam/odin-recipes)
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/adam-martinez-321700238/"></a> <img align="left" alt="LinkedInBadge" | max-width="100%" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-martinez-321700238/"/>
