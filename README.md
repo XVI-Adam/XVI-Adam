@@ -8,8 +8,10 @@
   - Recipes Project(https://github.com/XVI-Adam/odin-recipes)
 
 <h2> 🤳 Connect with me:</h2>
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/adam-martinez-321700238/"
+[<img align="left" alt="AdamMartinez | LinkedIn" max-width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AdamMartinez | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+[linkedin]: https://www.linkedin.com/in/adam-martinez-321700238/
+[gmail]: mailto:amartinez24@manhattan.edu
+
 
