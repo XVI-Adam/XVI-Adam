@@ -1,15 +1,4 @@
-<h2 position: absolute;
-  top: 50%;
-  left: -28px;
-  display: flex;
-  width: 28px;
-  height: 28px;
-  margin: auto;
-  border-radius: 6px;
-  opacity: 0;
-  justify-content: center;
-  align-items: center;
-  transform: translateY(-50%); >Thank's for visiting my GitHub portfolio! Hi, I'm Adam! I am a junior in Manhattan College studying Computer Information Systems with interests in Software Development. This repository serves as a showcase of my work that demonstrates my commitment to these fields. I appreciate you for taking the time to explore my portfolio and I hope it inspires and informs you. </h2>
+<h2>Thank's for visiting my GitHub portfolio! Hi, I'm Adam! I am a junior in Manhattan College studying Computer Information Systems with interests in Software Development. This repository serves as a showcase of my work that demonstrates my commitment to these fields. I appreciate you for taking the time to explore my portfolio and I hope it inspires and informs you. </h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
