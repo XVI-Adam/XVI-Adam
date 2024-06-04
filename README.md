@@ -1,4 +1,4 @@
-<h2>Thank's for visiting my GitHub portfolio! Hi, I'm Adam! I am a junior in Manhattan College studying Computer Information Systems with interests in Software Development. This repository serves as a showcase of my work that demonstrates my commitment to these fields. I appreciate you for taking the time to explore my portfolio and I hope it inspires and informs you. </h2>
+<h2>Thank's for visiting my GitHub portfolio! Hi, I'm Adam! I am a rising senior in Manhattan College studying Computer Information Systems with interests in Software Development. This repository serves as a showcase of my work that demonstrates my commitment to these fields. I appreciate you for taking the time to explore my portfolio and I hope it inspires and informs you. </h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
