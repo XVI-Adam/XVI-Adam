@@ -5,7 +5,8 @@
 - <b>Password Manager in Python (https://github.com/XVI-Adam/PW-Manager)</b>
 - <b>Full Stack Web App (HTML, CSS, PHP) (https://github.com/wdejesus01/ZooWeeMama)</b>
 - <b>The Odin Project</b>
-  - Recipes Project(https://github.com/XVI-Adam/odin-recipes)
+  - <a href="https://github.com/XVI-Adam/odin-recipes"> Recipes Project
+  - <a href="https://github.com/XVI-Adam/odin-landing-page> Landing Page
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/adam-martinez-321700238/"><img align="left" alt="AdamMartinez | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> </a>
