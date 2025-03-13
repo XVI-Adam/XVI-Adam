@@ -1,6 +1,6 @@
-<h2>Thank's for visiting my GitHub portfolio! Hi, I'm Adam! I am a senior in Manhattan College studying Computer Information Systems with interest in Software Development. This repository serves as a showcase of my work that demonstrates my commitment to these fields. I appreciate you for taking the time to explore my portfolio and I hope it inspires and informs you. </h2>
+<h2>Hello! I’m Adam Martinez, a senior at Manhattan College majoring in Computer Information Systems with a passion for software development. Welcome to my GitHub portfolio, where I showcase projects that reflect my dedication and growth in the field. I invite you to explore my work and hope it provides insight into my skills and interests. </h2>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Notable Projects:</h2>
 
 - <b>Password Manager in Python (https://github.com/XVI-Adam/PW-Manager)</b>
 - <b>Full Stack Web App (HTML, CSS, PHP) (https://github.com/wdejesus01/ZooWeeMama)</b>
