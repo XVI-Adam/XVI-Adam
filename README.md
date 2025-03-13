@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img href="https://www.linkedin.com/in/xvi-adam/" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">XVI-Adam's GitHub🌎☄️💕</h1>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Adam Martinez from NYC, New York<br><br>- 🔭 I’m currently looking for internships <br>- 📚 I'm currently studying Computer Information Systems from Manhattan University <br>- ⚡ In my free time I do calisthenics</p>
 
 ###
 
