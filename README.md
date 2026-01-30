@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Adam Martinez from NYC, New York<br><br>- 🔭 I’m currently looking for internships <br>- 📚 I'm currently studying Computer Information Systems from Manhattan University <br>- ⚡ In my free time I do calisthenics</p>
+<p align="left">I'm Adam Martinez from NYC, New York<br><br>- 🔭 I’m currently looking for internships <br>- 📚 I'm a recent CIS graduate from Manhattan University <br>- ⚡ In my free time I do calisthenics</p>
 
 ###
 
